@@ -21,7 +21,8 @@ This project is a **Book Library App** that fetches book data from an API and di
  ┣ 📜 README.md         # Project documentation
 ```
 ## Screenshots
-![Screenshot]PC-UI-LIST.png)
+<img src="PC-UI-LIST.png" alt="LIST UI" width="500"/>
+
 
 ## 🛠️ Installation
 
