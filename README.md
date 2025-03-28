@@ -25,7 +25,7 @@ This project is a **Book Library App** that fetches book data from an API and di
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/suprabhat/book-Library.git
+   git clone https://github.com/suprabhat3/book-Library.git
    ```
 2. **Open ************`index.html`************ in a browser**
 
