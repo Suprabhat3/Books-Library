@@ -21,7 +21,26 @@ This project is a **Book Library App** that fetches book data from an API and di
  ┣ 📜 README.md         # Project documentation
 ```
 ## Screenshots
-<img src="PC-UI-LIST.png" alt="LIST UI" width="500"/>
+<p align="center">
+  <img src="PC_UI-LIST" alt="Book Search App" width="700"/>
+  <br>
+  <strong>Figure 1: Desktop List Interface</strong>
+</p>
+<p align="center">
+  <img src="MOBILE-UI-LIST" alt="Book Search App" width="300"/>
+  <br>
+  <strong>Figure 2: Mobile List Interface</strong>
+</p>
+<p align="center">
+  <img src="PC-UI-GRID.png" alt="Book Search App" width="700"/>
+  <br>
+  <strong>Figure 3: Desktop Grid Interface</strong>
+</p>
+<p align="center">
+  <img src="MOBILE-UI-GRID.png" alt="Book Search App" width="300"/>
+  <br>
+  <strong>Figure 4: Mobile Grid Interface</strong>
+</p>
 
 
 ## 🛠️ Installation
