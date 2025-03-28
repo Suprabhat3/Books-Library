@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Library</title>
+    <link rel="icon" type="image/x-icon" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Book Library</h1>
+        
+        <div class="controls">
+            <div class="search-group">
+                <input type="text" 
+                       id="searchInput" 
+                       placeholder="Search books by title or author...">
+                <button id="searchButton">Search</button>
+            </div>
+            <div class="filter-group">
+                <select id="sortSelect">
+                    <option value="title_asc">Title (A-Z)</option>
+                    <option value="title_desc">Title (Z-A)</option>
+                    <option value="date_asc">Date (Oldest)</option>
+                    <option value="date_desc">Date (Newest)</option>
+                </select>
+                <div class="view-toggle">
+                    <button id="gridView" class="active">Grid</button>
+                    <button id="listView">List</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="books-grid" id="booksContainer"></div>
+        <div id="loading" class="loading">Loading more books...</div>
+        <div id="errorMessage" class="error-message"></div>
+    </div>
+    <footer class="footer">
+        <div class="footer-content">
+            <p><strong>&copy; 2025 Book Library</strong> Powered by FreeAPI.app All rights reserved.</p>
+            <nav class="footer-nav">
+                <a href="privacy.html">Privacy Policy</a> | 
+                <a href="term.html">Terms of Service</a> | 
+                <a href="contact.html">Contact Us</a>
+            </nav>
+        </div>
+    </footer>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
