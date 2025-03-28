@@ -22,12 +22,12 @@ This project is a **Book Library App** that fetches book data from an API and di
 ```
 ## Screenshots
 <p align="center">
-  <img src="PC_UI-LIST.png" alt="Book Search App" width="700"/>
+  <img src="PC-UI-LIST.png" alt="Book Search App" width="700"/>
   <br>
   <strong>Figure 1: Desktop List Interface</strong>
 </p>
 <p align="center">
-  <img src="MOBILE-UI-LIST.png" alt="Book Search App" width="300"/>
+  <img src="Mobile-UI-LIST.png" alt="Book Search App" width="300"/>
   <br>
   <strong>Figure 2: Mobile List Interface</strong>
 </p>
@@ -37,7 +37,7 @@ This project is a **Book Library App** that fetches book data from an API and di
   <strong>Figure 3: Desktop Grid Interface</strong>
 </p>
 <p align="center">
-  <img src="MOBILE-UI-GRID.png" alt="Book Search App" width="300"/>
+  <img src="Mobile-UI-GRID.png" alt="Book Search App" width="300"/>
   <br>
   <strong>Figure 4: Mobile Grid Interface</strong>
 </p>
