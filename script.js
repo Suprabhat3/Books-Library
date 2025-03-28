@@ -135,12 +135,8 @@ searchInput.addEventListener('keypress', (e) => {
 });
 
 sortSelect.addEventListener('change', () => {
-    console.log("Sorting by:", currentSort);
-    console.log("Current Books:", booksData);
-
     currentSort = sortSelect.value;
     booksContainer.innerHTML = '';
-    
     const sortedBooks = sortBooks([...booksData]);
     console.log("Sorted Books:", sortedBooks); // Debugging log
     
